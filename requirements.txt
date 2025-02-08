@@ -1,2 +1,59 @@
+# Data manipulation and analysis
 pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+#tensorflow
+#keras
+#torch
+#torchvision
+
+# Natural Language Processing
+nltk
+spacy
+#transformers
+
+# Hyperparameter optimization
+optuna
+
+# Model versioning and management
+mlflow
+boto3
+
+# Jupyter integration for VS Code
+
+jupyterlab
+
+# Jupyter for notebooks
+jupyter
+notebook
+
+# Data connectors and database handling
+SQLAlchemy
+psycopg2
+#pymongo
+
+# Miscellaneous
+scipy
+joblib
+tqdm
+
+#yaml
+PyYAML
+
+#cx-Oracle
+polars
+oracledb
+python-dotenv
+connectorx
+openpyxl
 sqlite3
