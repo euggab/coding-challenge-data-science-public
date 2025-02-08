@@ -3,6 +3,10 @@
 ## Overview
 My task was to forecast ticket sales for the next season 2022/2023, covering the period from December 10, 2022, to April 15, 2023 (10.12.2022 - 15.04.2023).
 
+# Key deliverables
+predictions.csv
+eda_and_model.ipynb
+
 ## Task questions
 
 # What do you see (patterns/potential issues)? The raw data consisted of two columns: Date and Number of Tickets Sold.
